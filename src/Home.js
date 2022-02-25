@@ -14,7 +14,8 @@ function Home() {
         <div className='home__row'>
           <Product
             id='14142'
-            title='The lean startup'
+            title='The lean startup: How Constant Innovation
+             Creates Radically Successful Business'
             price={11.96}
             rating={3}
             image='https://images-na.ssl-images-amazon.com/images/I/51nzbA9IboL._SX330_BO1,204,203,200_.jpg'
@@ -31,25 +32,24 @@ function Home() {
         <div className='home__row'>
           <Product
             id='6877'
-            title='Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue'
+            title='Echo Dot (4th Gen) | Smart speaker| Twilight Blue'
             price={76.55}
             rating={5}
             image='https://m.media-amazon.com/images/I/71UCjudB1cL._AC_SL1000_.jpg'
           />
           <Product
             id='1013544'
-            title='
-          2021 Apple 12.9-inch iPad Pro (Wi‑Fi, 128GB) - Silver'
+            title='2021 Apple 12.9-inch iPad Pro (Wi‑Fi, 128GB) - Silver'
             price={895.99}
             rating={5}
             image='https://m.media-amazon.com/images/I/815KnP2wjDS._AC_SL1500_.jpg'
           />
           <Product
             id='41479575'
-            title='2021 Apple MacBook Pro (16-inch, Apple M1 Pro chip with 10‑core CPU and 16‑core GPU, 16GB RAM, 1TB SSD) - Silver'
+            title='2021 Apple MacBook Pro 16-inch Silver'
             price={2416.55}
-            rating={8}
-            image='https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_SL1500_.jpg'
+            rating={5}
+            image='https://m.media-amazon.com/images/I/71gD8WdSlaL._AC_SL1500_.jpg'
           />
         </div>
         <div className='home__row'>
